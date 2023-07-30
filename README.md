@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth-Baldaniya
 - 👀 I’m interested in React Developer, Frontend Web Developer, MERN stack Developer.
-- 🌱 I’m currently learning DSA , Java, c, HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB, APIs, OOPs.
+- 🌱 I’m currently learning DSA , Core Java, c, HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB, APIs, OOPs, DBMS, OS, CN
 - 📫 How to reach me :- https://www.linkedin.com/in/parth-baldaniya/
 
 <!---
